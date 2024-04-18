@@ -1,0 +1,144 @@
+Civilizaciones Antiguas y Sus Personajes
+
+1. Civilización Aborigen
+- Personaje: Kangaroo Hunter (Cazador de canguros)
+- Descripción: Un hábil cazador de canguros que vive en las vastas llanuras de Australia.
+Tipo: Distancia
+
+2. Civilización Aqueménida
+- Personaje: Darius I (Dario I)
+- Descripción: El gran rey persa que estableció el Imperio Aqueménida y construyó la famosa ciudad de Persépolis.
+Señuelo
+
+3. Civilización Anasazi
+- Personaje: Pueblo Dweller (Morador de los Pueblos)
+- Descripción: Un habitante de las antiguas ciudades de los acantilados en el suroeste de los Estados Unidos.
+M-R
+
+4. Civilización Azteca
+- Personaje: Montezuma II (Moctezuma II)
+- Descripción: El último emperador azteca antes de la llegada de los conquistadores españoles.
+M-S
+
+5. Civilización Clovis 
+- Personaje: Clovis Warrior (Guerrero Clovis)
+- Descripción: Un valiente guerrero de la cultura Clovis, conocida por sus puntas de lanza de piedra.
+Tipo: Cuerpo a Cuerpo
+
+6. Civilización Cucuteni
+- Personaje: Pottery Artisan (Artesano de la Cerámica)
+- Descripción: Un hábil alfarero de la cultura Cucuteni, famosa por su cerámica decorativa.
+S
+
+7. Civilización Egipcia
+- Personaje: Cleopatra (Cleopatra VII)
+- Descripción: La legendaria reina de Egipto, conocida por su belleza y astucia política.
+Clima
+
+8. Civilización Griega
+- Personaje: Sócrates
+- Descripción: El filósofo griego que cuestionaba todo y sentó las bases del pensamiento occidental.
+M-S
+
+9. Civilización Inca
+- Personaje: Pachacuti (Pachacútec)
+- Descripción: El gobernante inca que expandió el imperio y construyó Machu Picchu.
+Despeje
+
+10. Civilización Indo
+- Personaje: Harappan Trader (Comerciante Harappan)
+- Descripción: Un comerciante de la antigua civilización del valle del Indo.
+Distancia
+
+11. Civilización Japonesa
+- Personaje: Samurai (Guerrero Samurai)
+- Descripción: Un valiente guerrero japonés que sigue el código de honor del bushido.
+Cuerpo a Cuerpo
+
+12. Civilización Vikinga
+- Personaje: Leif Erikson
+- Descripción: Un explorador vikingo que se cree que llegó a América del Norte antes que Colón.
+Cuerpo a Cuerpo
+
+13. Civilización Romana
+- Personaje: Julio César
+- Descripción: El famoso líder militar y político romano que desempeñó un papel crucial en la historia de Roma.
+Heroe
+
+14. Civilización Maya
+- Personaje: Ixchel (Diosa de la Luna y la Fertilidad)
+- Descripción: Una deidad maya asociada con la luna, la fertilidad y la medicina.
+M-R-S
+
+15. Civilización Babilónica
+- Personaje: Hammurabi
+- Descripción: El rey babilónico conocido por el Código de Hammurabi, uno de los primeros conjuntos de leyes escritas.
+M-R
+
+16. Civilización Cartaginesa
+- Personaje: Aníbal
+- Descripción: El famoso general cartaginés que cruzó los Alpes con elefantes durante las Guerras Púnicas.
+Despeje
+
+17. Civilización Olmeca
+- Personaje: Cabeza Colosal
+- Descripción: Las enigmáticas cabezas colosales de la cultura olmeca, talladas en piedra volcánica.
+R
+
+18. Civilización Persa
+- Personaje: Ciro el Grande (Ciro II)
+- Descripción: El fundador del Imperio Persa Aqueménida y un líder visionario.
+Aumento
+
+19. Civilización Sumeria
+- Personaje: Gilgamesh
+- Descripción: El héroe legendario de la epopeya de Gilgamesh, una de las obras literarias más antiguas conocidas.
+Señuelo
+
+20. Civilización China
+- Personaje: Confucio
+- Descripción: El influyente filósofo chino cuyas enseñanzas han perdurado a lo largo de los siglos.
+Aumento 
+
+21. Civilización Vikinga
+- Personaje: Ragnar Lothbrok
+- Descripción: Un legendario líder vikingo y protagonista de las sagas nórdicas.
+Clima
+
+22. Civilización Hitita
+- Personaje: Hattusili III
+- Descripción: El rey hitita que expandió el imperio y estableció la capital en Hattusa.
+Asedio
+
+23. Civilización Fenicia
+- Personaje: Dido (Elissa)
+- Descripción: La fundadora y reina de Cartago, una ciudad fenicia en el norte de África.
+Asedio
+
+24. Civilización Asiria
+- Personaje: Ashurbanipal
+- Descripción: El último gran rey asirio, conocido por su biblioteca en Nínive.
+S-R
+
+25. Civilización Harappa
+- Personaje: Priestess of Mohenjo-Daro (Sacerdotisa de Mohenjo-Daro)
+- Descripción: Una sacerdotisa de la antigua ciudad de Mohenjo-Daro en la civilización del valle del Indo.
+lider
+
+Cartas de Unidad:
+Cuerpo a Cuerpo (M) -20 3
+Distancia (S) -17 3
+Asedio (R) -14 3
+M y S -12 2
+M y R -10 2
+S y R -9 1
+M, R y S -8 1
+
+Cartas Especiales:
+Clima -6 2
+Señuelo -4 2
+Aumento -2 2
+Despeje -0 2
+
+Carta Lider -23 1
+Carta Heroe -24 1
