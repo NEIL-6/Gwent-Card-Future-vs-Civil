@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "gwent-card-game-master.sln"
+    "dotnet.defaultSolution": "Gwent-Card-Future-vs-Civil.sln"
 }
